@@ -1,7 +1,7 @@
 # Two and a Half A's Techdemo
 
-Name of the Game: Techdemo for Palace of Eternal Life  
-Name of the Studio: Two and a Half A's  
+Name of the Game: Techdemo for Palace of Eternal Life    
+Name of the Studio: Two and a Half A's    
 Members:  
   Zhiqi Zhou: Programmer (Producer)  
   Zhouheng He: Programmer/Sound (Lead Designer)  

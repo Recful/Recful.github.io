@@ -9,7 +9,7 @@
   Yingxin Xue: Programmer/Artist  
   Yi Lin: Writer  
   
-2021.03.04:  [Vertical Slice Release](/2.5As_VS/index.html)  
+2021.03.05:  [Vertical Slice Release](/2.5As_VS/index.html)  
 
 2021.02.18: [Techdemo Release](/2.5As_Techdemo/index.html)  
 2021.02.18: [Techdemo Release Download](2.5As_Techdemo.zip)  

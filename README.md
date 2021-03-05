@@ -1,4 +1,4 @@
-# Two and a Half A's Techdemo # 
+# Two and a Half A's Releases # 
 
 * Name of the Game: Techdemo for Palace of Eternal Life    
 * Name of the Studio: Two and a Half A's    

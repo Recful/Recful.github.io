@@ -1,5 +1,6 @@
 # Palace of Eternal Life
 ## Two and a Half A's Presents
+
 * Members:  
   Zhiqi Zhou: Programmer (Producer)  
   Zhouheng He: Programmer/Sound (Lead Designer)  
@@ -23,8 +24,11 @@
 
 * [Survey Questions](https://forms.gle/99WYjJts3viNwccYA)
 
-2021.03.27: [Beta Release](/2.5As_Beta/index.html)  
-2021.03.05: [Vertical Slice Release](/2.5As_VS/index.html)  
-2021.02.18: [Techdemo Release](/2.5As_Techdemo/index.html)  
-2021.02.18: [Techdemo Release Download](2.5As_Techdemo.zip)  
+* [Beta Release](/2.5As_Beta/index.html)  
+
+* [Vertical Slice Release](/2.5As_VS/index.html)  
+
+* [Techdemo Release](/2.5As_Techdemo/index.html)  
+
+* [Techdemo Release Download](2.5As_Techdemo.zip)  
 

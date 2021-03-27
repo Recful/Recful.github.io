@@ -1,7 +1,5 @@
 # Palace of Eternal Life # 
-
-* Name of the Game: Techdemo for Palace of Eternal Life    
-* Name of the Studio: Two and a Half A's    
+## Two and a Half A's Presents ##
 * Executive Producer: Aleia Cabote
 * Members:  
   Zhiqi Zhou: Programmer (Producer)  

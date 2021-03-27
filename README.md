@@ -1,5 +1,5 @@
-# Palace of Eternal Life # 
-## Two and a Half A's Presents ##
+# Palace of Eternal Life
+## Two and a Half A's Presents
 * Executive Producer: Aleia Cabote
 * Members:  
   Zhiqi Zhou: Programmer (Producer)  

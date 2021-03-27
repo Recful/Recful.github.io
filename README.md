@@ -1,12 +1,12 @@
 # Palace of Eternal Life
 ## Two and a Half A's Presents
-* Executive Producer: Aleia Cabote
 * Members:  
   Zhiqi Zhou: Programmer (Producer)  
   Zhouheng He: Programmer/Sound (Lead Designer)  
   Yueling Chen: Programmer/Artist  
   Yingxin Xue: Programmer/Artist  
   Yi Lin: Writer  
+  Aleia Cabote: Executive Producer
 * Instruction on playing:
   WASD key for movement
   Left key on mouse / Enter to interact

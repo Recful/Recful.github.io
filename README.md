@@ -11,7 +11,7 @@
 * Design Document:
   https://trello.com/25as/home
 * Instruction on playing:
-  W, A. S, D key for movement
+  WASD key for movement
   Left key on mouse / Enter to interact
 * Mechanics:
   Transition between areas

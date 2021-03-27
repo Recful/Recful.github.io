@@ -17,8 +17,8 @@
   Saving and loading game
   Help menu
   
-* Design Document: [https://trello.com/25as/home]
-* Survey Questions: [https://forms.gle/99WYjJts3viNwccYA]
+* Design Document: https://trello.com/25as/home
+* Survey Questions: https://forms.gle/99WYjJts3viNwccYA
 
   
 2021.03.27: [Beta Release](/2.5As_Beta/index.html)  

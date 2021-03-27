@@ -8,7 +8,9 @@
   Yueling Chen: Programmer/Artist  
   Yingxin Xue: Programmer/Artist  
   Yi Lin: Writer  
-  
+ 
+2021.03.26:  [Beta Release](/2.5As_Beta/index.html)  
+
 2021.03.05 (6:08):  [Vertical Slice Release](/2.5As_VS/index.html)  
 
 2021.02.18: [Techdemo Release](/2.5As_Techdemo/index.html)  

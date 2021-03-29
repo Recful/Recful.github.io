@@ -22,7 +22,7 @@
   
 * [Design Document](https://trello.com/25as/home)
 
-* [Survey Questions](https://forms.gle/99WYjJts3viNwccYA)
+* [Survey Questions](https://forms.gle/cNmQjGJvoDLbGuA36)
 
 * [Beta Release](/2.5As_Beta/index.html)  
 

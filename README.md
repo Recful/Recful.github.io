@@ -1,6 +1,8 @@
 # Palace of Eternal Life
 ## Two and a Half A's Presents
 
+* [Gold Test (22:59)](/2.5As_Gold/index.html)  
+
 * Members:  
   Zhiqi Zhou: Programmer (Producer)  
   Zhouheng He: Programmer/Sound (Lead Designer)  

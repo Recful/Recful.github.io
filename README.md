@@ -1,17 +1,34 @@
-# Two and a Half A's Releases # 
+# Palace of Eternal Life
+## Two and a Half A's Presents
 
-* Name of the Game: Techdemo for Palace of Eternal Life    
-* Name of the Studio: Two and a Half A's    
 * Members:  
   Zhiqi Zhou: Programmer (Producer)  
   Zhouheng He: Programmer/Sound (Lead Designer)  
   Yueling Chen: Programmer/Artist  
   Yingxin Xue: Programmer/Artist  
   Yi Lin: Writer  
- 
-2021.03.27 (4:56):  [Beta Release](/2.5As_Beta/index.html)  
+  Aleia Cabote: Executive Producer
+  
+* Instruction on playing:
+  WASD key for movement
+  Left key on mouse / Enter to interact
+  
+* Mechanics:
+  Transition between areas
+  Item inventory
+  Clue/Task Inventory
+  Saving and loading game
+  Help menu
+  
+* [Design Document](https://trello.com/25as/home)
 
-2021.03.05 (6:08):  [Vertical Slice Release](/2.5As_VS/index.html)  
+* [Survey Questions](https://forms.gle/cNmQjGJvoDLbGuA36)
 
-2021.02.18: [Techdemo Release](/2.5As_Techdemo/index.html)  
-2021.02.18: [Techdemo Release Download](2.5As_Techdemo.zip)  
+* [Beta Release](/2.5As_Beta/index.html)  
+
+* [Vertical Slice Release](/2.5As_VS/index.html)  
+
+* [Techdemo Release](/2.5As_Techdemo/index.html)  
+
+* [Techdemo Release Download](2.5As_Techdemo.zip)  
+

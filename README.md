@@ -3,13 +3,13 @@
 
 * [Gold Test (2021-4-14 20:58)](/2.5As_Gold/index.html)  
 
-* Members:  
-  Zhiqi Zhou: Producer/Programmer
-  Zhouheng He:  Lead Designer/Programmer/Sound
-  Yueling Chen: Programmer/Artist  
-  Yingxin Xue: Programmer/Artist  
-  Yi Lin: Writer  
-  Aleia Cabote: Executive Producer
+* Members:
+  * Zhiqi Zhou: Producer/Programmer
+  * Zhouheng He: Lead Designer/Programmer/Sound
+  * Yueling Chen: Programmer/Artist
+  * Yingxin Xue: Programmer/Artist
+  * Yi Lin: Writer
+  * Aleia Cabote: Executive Producer
   
 * Instruction on playing:
   WASD key for movement

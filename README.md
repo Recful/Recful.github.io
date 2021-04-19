@@ -1,42 +1,46 @@
 # Palace of Eternal Life
 ## Two and a Half A's Presents
 
-* Members:
-  * Zhiqi Zhou: Producer/Programmer
-  * Zhouheng He: Lead Designer/Programmer/Sound
-  * Yueling Chen: Programmer/Artist
-  * Yingxin Xue: Programmer/Artist
-  * Yi Lin: Writer
-  * Aleia Cabote: Executive Producer
+### Members:
+  Zhiqi Zhou: Producer/Programmer <br>
+  Zhouheng He: Lead Designer/Programmer/Sound <br>
+  Yueling Chen: Programmer/Artist <br>
+  Yingxin Xue: Programmer/Artist <br>
+  Yi Lin: Writer <br>
+  Aleia Cabote: Executive Producer <br>
   
-* Instruction on playing:
+### Instruction on playing:
   WASD key for movement
   Left key on mouse / Enter to interact
   
-* Mechanics:
+### Mechanics:
   Transition between areas
   Item inventory
   Clue/Task Inventory
   Saving and loading game
   Help menu
 
-* [Gold Release](/2.5As_Gold/index.html)  
+### Gold Release
+[Gold Release](/2.5As_Gold/index.html)   <br>
 
-* [Source Code (Github)](https://github.com/CMPUT250TeamTwoAndHalfAs/Palace-of-Eternal-Life)  
+[Source Code (Github)](https://github.com/CMPUT250TeamTwoAndHalfAs/Palace-of-Eternal-Life)   <br>
 
-* [Source Code (ZIP)](https://drive.google.com/file/d/1Ouw6k4ZjyDsNFXaB20hMJKp_KYuGNpQb/view?usp=sharing)
+[Source Code (ZIP)](https://drive.google.com/file/d/1Ouw6k4ZjyDsNFXaB20hMJKp_KYuGNpQb/view?usp=sharing) <br>
 
-* [Design Document](https://trello.com/25as/home)
+[Design Document](https://trello.com/25as/home) <br>
 
-* [Walkthrough Video](https://drive.google.com/file/d/1u4NOl3UXidF2l46pD9HZdJufqNc3Wr8m/view?usp=sharing)
+[Walkthrough Video](https://drive.google.com/file/d/1u4NOl3UXidF2l46pD9HZdJufqNc3Wr8m/view?usp=sharing) <br>
 
-* [Beta Survey Questions](https://forms.gle/cNmQjGJvoDLbGuA36)
 
-* [Beta Release](/2.5As_Beta/index.html)  
+### Previous Release
 
-* [Vertical Slice Release](/2.5As_VS/index.html)  
+[Beta Survey Questions](https://forms.gle/cNmQjGJvoDLbGuA36) <br>
 
-* [Techdemo Release](/2.5As_Techdemo/index.html)  
+[Beta Release](/2.5As_Beta/index.html)   <br>
 
-* [Techdemo Release Download](2.5As_Techdemo.zip)  
+[Vertical Slice Release](/2.5As_VS/index.html)   <br>
+
+[Techdemo Release](/2.5As_Techdemo/index.html)   <br>
+
+[Techdemo Release Download](2.5As_Techdemo.zip)   <br>
 

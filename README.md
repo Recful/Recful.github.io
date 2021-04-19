@@ -1,5 +1,5 @@
 # Palace of Eternal Life
-## Two and a Half A's Presents
+## Two and a Half A's
 
 ### Members:
   * Aleia Cabote: Executive Producer <br>

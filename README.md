@@ -9,17 +9,21 @@
   Yi Lin: Writer <br>
   Aleia Cabote: Executive Producer <br>
   
-### Instruction on playing:
-  WASD key for movement
-  Left key on mouse / Enter to interact
-  
-### Mechanics:
-  Transition between areas
-  Item inventory
-  Clue/Task Inventory
-  Saving and loading game
-  Help menu
+### To Play on Local Machine:
+   * Open “Game.rpgproject” on RPG Maker MV.
+   * Click “File” -> “Deployment”.
+   * Choose your preferred platform.
+   * Export the executable.
+   * Go to the target directory.
+   * Execute “Game.exe” (on Windows);
 
+### To Play Online:
+   * Open the URL: https://recful.github.io/2.5As_Gold/index.html.
+   * Use “Ctrl + +” or “Cmd + +” to resize the browser window size.
+   * Adjust the system settings in “Options”.
+   * Start a new game by clicking “New Game”.
+   * See the credits by clicking “Credits”.
+ 
 ### Gold Release
 [Gold Release](/2.5As_Gold/index.html)   <br>
 

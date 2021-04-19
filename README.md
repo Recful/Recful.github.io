@@ -1,35 +1,43 @@
 # Palace of Eternal Life
 ## Two and a Half A's
 
-### Members:
+### Members
   * Aleia Cabote: Executive Producer <br>
   * Zhiqi Zhou: Producer/Programmer <br>
   * Zhouheng He: Lead Designer/Programmer/Sound <br>
   * Yueling Chen: Programmer/Artist <br>
   * Yingxin Xue: Programmer/Artist <br>
   * Yi Lin: Writer <br>
-  
-### To Play on Local Machine:
-   * Open “Game.rpgproject” on RPG Maker MV.
-   * Click “File” -> “Deployment”.
-   * Choose your preferred platform.
-   * Export the executable.
-   * Go to the target directory.
-   * Execute “Game.exe” (on Windows);
-
-### To Play Online:
+ 
+### To Play Online
    * Open the URL: https://recful.github.io/2.5As_Gold/index.html.
    * Use “Ctrl + +” or “Cmd + +” to resize the browser window size.
    * Adjust the system settings in “Options”.
    * Start a new game by clicking “New Game”.
    * See the credits by clicking “Credits”.
+   
+### To Play on Local Machine
+   * Download "Gold Release (Download)" and unzip it.
+   * Open “Game.rpgproject” on RPG Maker MV.
+   * Click “File” -> “Deployment”.
+   * Choose your preferred platform.
+   * Export the executable and go to the target directory.
+   * Open the exeutable file.
+
+### Gameplay Instructions
+* Use WASD to the character.
+* Use Esc to open the menu or cancel.
+* Press enter or click to interact with a NPC or item.
+* Use Esc -> Opitions -> Keyboard Config to custom keyboard.
+* A bubble text box or sparkle means an important interaction. 
  
 ### Gold Release
-[Gold Release](/2.5As_Gold/index.html)   <br>
+[Gold Release (Web)](/2.5As_Gold/index.html)   <br>
+
+[Gold Release (Download)](https://drive.google.com/file/d/1Ouw6k4ZjyDsNFXaB20hMJKp_KYuGNpQb/view?usp=sharing) <br>
 
 [Source Code (Github)](https://github.com/CMPUT250TeamTwoAndHalfAs/Palace-of-Eternal-Life)   <br>
 
-[Source Code (ZIP)](https://drive.google.com/file/d/1Ouw6k4ZjyDsNFXaB20hMJKp_KYuGNpQb/view?usp=sharing) <br>
 
 [Design Document](https://trello.com/25as/home) <br>
 

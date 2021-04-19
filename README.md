@@ -1,7 +1,7 @@
 # Palace of Eternal Life
 ## Two and a Half A's Presents
 
-* [Gold Test (2021-4-17 20:43)](/2.5As_Gold/index.html)  
+* [Gold Test (2021-4-18 17:34)](/2.5As_Gold/index.html)  
 
 * Members:
   * Zhiqi Zhou: Producer/Programmer

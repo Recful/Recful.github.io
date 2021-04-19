@@ -38,10 +38,16 @@
 
 [Source Code (Github)](https://github.com/CMPUT250TeamTwoAndHalfAs/Palace-of-Eternal-Life)   <br>
 
-
 [Design Document](https://trello.com/25as/home) <br>
 
+### Gold Walkthrough
 [Walkthrough Video](https://drive.google.com/file/d/1u4NOl3UXidF2l46pD9HZdJufqNc3Wr8m/view?usp=sharing) <br>
+
+#### Timestamp for Levels
+* Level 1 Bamboo village: 2:54
+* Level 2 Flaming Mountain: 5:18
+* Level 3 Snowy Valley & Cave: 8:06
+* Level 4 Palace of Eternal Life: 9:33
 
 
 ### Previous Release

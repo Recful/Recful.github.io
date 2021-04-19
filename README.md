@@ -56,3 +56,6 @@
 
 [Techdemo Release Download](2.5As_Techdemo.zip)   <br>
 
+### Contact Us
+
+You can share anything about this game to zhiqi3@ualberta.ca.

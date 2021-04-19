@@ -1,8 +1,6 @@
 # Palace of Eternal Life
 ## Two and a Half A's Presents
 
-* [Gold Release](/2.5As_Gold/index.html)  
-
 * Members:
   * Zhiqi Zhou: Producer/Programmer
   * Zhouheng He: Lead Designer/Programmer/Sound
@@ -21,7 +19,9 @@
   Clue/Task Inventory
   Saving and loading game
   Help menu
-  
+
+* [Gold Release](/2.5As_Gold/index.html)  
+
 * [Design Document](https://trello.com/25as/home)
 
 * [Survey Questions](https://forms.gle/cNmQjGJvoDLbGuA36)

@@ -2,12 +2,12 @@
 ## Two and a Half A's Presents
 
 ### Members:
-  Zhiqi Zhou: Producer/Programmer <br>
-  Zhouheng He: Lead Designer/Programmer/Sound <br>
-  Yueling Chen: Programmer/Artist <br>
-  Yingxin Xue: Programmer/Artist <br>
-  Yi Lin: Writer <br>
-  Aleia Cabote: Executive Producer <br>
+  * Aleia Cabote: Executive Producer <br>
+  * Zhiqi Zhou: Producer/Programmer <br>
+  * Zhouheng He: Lead Designer/Programmer/Sound <br>
+  * Yueling Chen: Programmer/Artist <br>
+  * Yingxin Xue: Programmer/Artist <br>
+  * Yi Lin: Writer <br>
   
 ### To Play on Local Machine:
    * Open “Game.rpgproject” on RPG Maker MV.

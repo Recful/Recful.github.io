@@ -22,9 +22,15 @@
 
 * [Gold Release](/2.5As_Gold/index.html)  
 
+* [Source Code (Github)](https://github.com/CMPUT250TeamTwoAndHalfAs/Palace-of-Eternal-Life)  
+
+* [Source Code (ZIP)](https://drive.google.com/file/d/1Ouw6k4ZjyDsNFXaB20hMJKp_KYuGNpQb/view?usp=sharing)
+
 * [Design Document](https://trello.com/25as/home)
 
-* [Survey Questions](https://forms.gle/cNmQjGJvoDLbGuA36)
+* [Walkthrough Video](https://drive.google.com/file/d/1u4NOl3UXidF2l46pD9HZdJufqNc3Wr8m/view?usp=sharing)
+
+* [Beta Survey Questions](https://forms.gle/cNmQjGJvoDLbGuA36)
 
 * [Beta Release](/2.5As_Beta/index.html)  
 

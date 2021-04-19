@@ -10,7 +10,7 @@
   * Yi Lin: Writer <br>
  
 ### To Play Online
-   * Open the URL: https://recful.github.io/2.5As_Gold/index.html.
+   * Open the URL: [https://recful.github.io/2.5As_Gold/index.html].
    * Use “Ctrl + +” or “Cmd + +” to resize the browser window size.
    * Adjust the system settings in “Options”.
    * Start a new game by clicking “New Game”.
